@@ -1,6 +1,6 @@
 ### Welcome on my profile 👋
 
-🧙‍♂️ I'm Sebastian, a 3rd year IT Student at [University of of Warmia and Mazury](https://uwm.edu.pl/) in Olsztyn and a member of [Artificial Intelligence Society ,,Czarna Magia"](https://www.facebook.com/people/Ko%C5%82o-Naukowe-Sztucznej-Inteligencji-Czarna-Magia/100093587573194/).<br><br>
+🧙‍♂️ I'm Sebastian, a 3rd year bachelor IT Student at [University of of Warmia and Mazury](https://uwm.edu.pl/) in Olsztyn and a member of [Artificial Intelligence Society ,,Czarna Magia"](https://www.facebook.com/people/Ko%C5%82o-Naukowe-Sztucznej-Inteligencji-Czarna-Magia/100093587573194/).<br><br>
 
 
 **My activity:**
