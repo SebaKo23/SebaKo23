@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=angular,django)](https://skillicons.dev)
 
 ## Known Tools and other technology:
-[![My Skills](https://skillicons.dev/icons?i=anaconda,css,git,github,godot,html,idea,latex,linux,maven,md,mysql,postgres,postman,powershell,pytorch,sqlite,unity,pycharm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,css,git,github,godot,html,idea,latex,linux,maven,md,mysql,postgres,postman,powershell,sqlite,sklearn,unity,pycharm,vscode)](https://skillicons.dev)
 
 ## Profile stats:
 
