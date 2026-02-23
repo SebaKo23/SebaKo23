@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-🧙‍♂️ I'm Sebastian, a 1st year master degree Computer Science Student at [University of Warmia and Mazury](https://uwm.edu.pl/) in Olsztyn. <br><br>
+🧙‍♂️ I'm Sebastian, a 2nd year master degree Computer Science Student at [University of Warmia and Mazury](https://uwm.edu.pl/) in Olsztyn. <br><br>
 
 ## Known Languages:
 
