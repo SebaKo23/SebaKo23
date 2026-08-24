@@ -13,7 +13,7 @@ Passionate about bridging the gap between Machine Learning research and practica
 [![My Skills](https://skillicons.dev/icons?i=py,postgres,sqlite,bash,linux)](https://skillicons.dev)
 
 **AI / ML & Data Science:**
-[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,pandas,pycharm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,pycharm,vscode)](https://skillicons.dev)
 
 **MLOps, Automation & DevOps:**
 [![My Skills](https://skillicons.dev/icons?i=githubactions,git,github,postman,docker)](https://skillicons.dev)
